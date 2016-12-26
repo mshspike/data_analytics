@@ -1,0 +1,16 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "Accessing API to get data and cache to local machine",
+  "main": "cache_data.js",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sin Hang Mak",
+  "license": "ISC"
+}
